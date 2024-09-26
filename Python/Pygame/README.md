@@ -1,0 +1,2 @@
+# Pygame
+These are little games I made on Python the pygame library, I also learned to use time, system & a couple other normal libraries. I eventually plan to come back to this if I haven't already to change the layout, backgrounds, skins, and sounds. Most of these are free use and random ideas I used across the web. I will eventually be making a folder for these to live in where it will start data from previous games like high scroes, etc.
