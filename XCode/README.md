@@ -1,0 +1,2 @@
+# XCode
+Most of these were built off a platform on my Macbook that I borrowed to understand app development more and working with Macs to gain confidence in the workspace. I learned most of these skills on my own through various tools such as Udemy and Youtube because my University does not offer an app development course. I will be soon to be working on a mobile app for a local company in my home town as a volunteer to get some better experience in this field and add the extra project to my portfolio.
