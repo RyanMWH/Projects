@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace StockPredictor
 {
-    public partial class Form1 : Form
+    public partial class Display_Input_Form : Form
     {
-        public Form1()
+        public Display_Input_Form()
         {
             InitializeComponent();
         }

@@ -1,6 +1,6 @@
 ﻿namespace StockPredictor
 {
-    partial class Form1
+    partial class Display_Input_Form
     {
         /// <summary>
         /// Required designer variable.
@@ -37,4 +37,3 @@
         #endregion
     }
 }
-

@@ -1,0 +1,10 @@
+C:\Users\lhann\Desktop\Projects\Projects\C#\StockPredictor\StockPredictor\StockPredictor\obj\Debug\StockPredictor.csproj.AssemblyReference.cache
+C:\Users\lhann\Desktop\Projects\Projects\C#\StockPredictor\StockPredictor\StockPredictor\obj\Debug\StockPredictor.Input_form.resources
+C:\Users\lhann\Desktop\Projects\Projects\C#\StockPredictor\StockPredictor\StockPredictor\obj\Debug\StockPredictor.Properties.Resources.resources
+C:\Users\lhann\Desktop\Projects\Projects\C#\StockPredictor\StockPredictor\StockPredictor\obj\Debug\StockPredictor.csproj.GenerateResource.cache
+C:\Users\lhann\Desktop\Projects\Projects\C#\StockPredictor\StockPredictor\StockPredictor\obj\Debug\StockPredictor.csproj.CoreCompileInputs.cache
+C:\Users\lhann\Desktop\Projects\Projects\C#\StockPredictor\StockPredictor\StockPredictor\bin\Debug\StockPredictor.exe.config
+C:\Users\lhann\Desktop\Projects\Projects\C#\StockPredictor\StockPredictor\StockPredictor\bin\Debug\StockPredictor.exe
+C:\Users\lhann\Desktop\Projects\Projects\C#\StockPredictor\StockPredictor\StockPredictor\bin\Debug\StockPredictor.pdb
+C:\Users\lhann\Desktop\Projects\Projects\C#\StockPredictor\StockPredictor\StockPredictor\obj\Debug\StockPredictor.exe
+C:\Users\lhann\Desktop\Projects\Projects\C#\StockPredictor\StockPredictor\StockPredictor\obj\Debug\StockPredictor.pdb
