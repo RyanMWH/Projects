@@ -1,0 +1,2 @@
+# Snake Game
+This game tended to be a little more intricate to work with I hand to learn how to hold the sections of the snake in some sort of collection such as a list or an array. I never fully finished this either same thing as for time, but I was planning on looking to make the collision in a two player version where the snakes use Objection Orientation to work as there own and play against each other.
