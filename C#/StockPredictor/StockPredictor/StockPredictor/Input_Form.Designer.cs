@@ -33,6 +33,7 @@
             this.startTimePicker = new System.Windows.Forms.DateTimePicker();
             this.startLabel = new System.Windows.Forms.Label();
             this.endLabel = new System.Windows.Forms.Label();
+            this.openFileDialog_load = new System.Windows.Forms.OpenFileDialog();
             this.SuspendLayout();
             // 
             // load_button
@@ -80,6 +81,15 @@
             this.endLabel.TabIndex = 4;
             this.endLabel.Text = "End Time";
             // 
+            // openFileDialog_load
+            // 
+            this.openFileDialog_load.FileName = "openFileDialog_load";
+            this.openFileDialog_load.Filter = "Text Files (*.txt)|*.txt|CSV Files (*.csv)|*.csv|All Files (*.*)|*.*";
+            this.openFileDialog_load.InitialDirectory = "@\"C:\\\"";
+            this.openFileDialog_load.RestoreDirectory = true;
+            this.openFileDialog_load.ShowHelp = true;
+            this.openFileDialog_load.Title = "File Selection";
+            // 
             // Input_Form
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(12F, 25F);
@@ -105,6 +115,7 @@
         private System.Windows.Forms.DateTimePicker startTimePicker;
         private System.Windows.Forms.Label startLabel;
         private System.Windows.Forms.Label endLabel;
+        private System.Windows.Forms.OpenFileDialog openFileDialog_load;
     }
 }
 

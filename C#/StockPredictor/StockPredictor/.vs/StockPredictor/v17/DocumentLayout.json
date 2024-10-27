@@ -3,24 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\lhann\\Desktop\\Projects\\Projects\\C#\\StockPredictor\\StockPredictor\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1C2B9FE9-70F1-4429-8CF4-7498220FAEE1}|StockPredictor\\StockPredictor.csproj|C:\\Users\\lhann\\Desktop\\Projects\\Projects\\C#\\StockPredictor\\StockPredictor\\stockpredictor\\display_input_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C2B9FE9-70F1-4429-8CF4-7498220FAEE1}|StockPredictor\\StockPredictor.csproj|solutionrelative:stockpredictor\\display_input_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C2B9FE9-70F1-4429-8CF4-7498220FAEE1}|StockPredictor\\StockPredictor.csproj|c:\\users\\lhann\\desktop\\projects\\projects\\c#\\stockpredictor\\stockpredictor\\stockpredictor\\candlestick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C2B9FE9-70F1-4429-8CF4-7498220FAEE1}|StockPredictor\\StockPredictor.csproj|solutionrelative:stockpredictor\\candlestick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C2B9FE9-70F1-4429-8CF4-7498220FAEE1}|StockPredictor\\StockPredictor.csproj|C:\\Users\\lhann\\Desktop\\Projects\\Projects\\C#\\StockPredictor\\StockPredictor\\stockpredictor\\display_input_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1C2B9FE9-70F1-4429-8CF4-7498220FAEE1}|StockPredictor\\StockPredictor.csproj|solutionrelative:stockpredictor\\display_input_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1C2B9FE9-70F1-4429-8CF4-7498220FAEE1}|StockPredictor\\StockPredictor.csproj|c:\\users\\lhann\\desktop\\projects\\projects\\c#\\stockpredictor\\stockpredictor\\stockpredictor\\input_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1C2B9FE9-70F1-4429-8CF4-7498220FAEE1}|StockPredictor\\StockPredictor.csproj|solutionrelative:stockpredictor\\input_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C2B9FE9-70F1-4429-8CF4-7498220FAEE1}|StockPredictor\\StockPredictor.csproj|c:\\users\\lhann\\desktop\\projects\\projects\\c#\\stockpredictor\\stockpredictor\\stockpredictor\\input_form.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C2B9FE9-70F1-4429-8CF4-7498220FAEE1}|StockPredictor\\StockPredictor.csproj|solutionrelative:stockpredictor\\input_form.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C2B9FE9-70F1-4429-8CF4-7498220FAEE1}|StockPredictor\\StockPredictor.csproj|c:\\users\\lhann\\desktop\\projects\\projects\\c#\\stockpredictor\\stockpredictor\\stockpredictor\\display_input_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C2B9FE9-70F1-4429-8CF4-7498220FAEE1}|StockPredictor\\StockPredictor.csproj|solutionrelative:stockpredictor\\display_input_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C2B9FE9-70F1-4429-8CF4-7498220FAEE1}|StockPredictor\\StockPredictor.csproj|c:\\users\\lhann\\desktop\\projects\\projects\\c#\\stockpredictor\\stockpredictor\\stockpredictor\\display_input_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1C2B9FE9-70F1-4429-8CF4-7498220FAEE1}|StockPredictor\\StockPredictor.csproj|solutionrelative:stockpredictor\\display_input_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C2B9FE9-70F1-4429-8CF4-7498220FAEE1}|StockPredictor\\StockPredictor.csproj|c:\\users\\lhann\\desktop\\projects\\projects\\c#\\stockpredictor\\stockpredictor\\stockpredictor\\input_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{1C2B9FE9-70F1-4429-8CF4-7498220FAEE1}|StockPredictor\\StockPredictor.csproj|C:\\Users\\lhann\\Desktop\\Projects\\Projects\\C#\\StockPredictor\\StockPredictor\\stockpredictor\\input_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{1C2B9FE9-70F1-4429-8CF4-7498220FAEE1}|StockPredictor\\StockPredictor.csproj|solutionrelative:stockpredictor\\input_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C2B9FE9-70F1-4429-8CF4-7498220FAEE1}|StockPredictor\\StockPredictor.csproj|C:\\Users\\lhann\\Desktop\\Projects\\Projects\\C#\\StockPredictor\\StockPredictor\\stockpredictor\\input_form.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C2B9FE9-70F1-4429-8CF4-7498220FAEE1}|StockPredictor\\StockPredictor.csproj|solutionrelative:stockpredictor\\input_form.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,53 +42,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Display_Input_Form.cs",
               "DocumentMoniker": "C:\\Users\\lhann\\Desktop\\Projects\\Projects\\C#\\StockPredictor\\StockPredictor\\StockPredictor\\Display_Input_Form.cs",
               "RelativeDocumentMoniker": "StockPredictor\\Display_Input_Form.cs",
               "ToolTip": "C:\\Users\\lhann\\Desktop\\Projects\\Projects\\C#\\StockPredictor\\StockPredictor\\StockPredictor\\Display_Input_Form.cs",
               "RelativeToolTip": "StockPredictor\\Display_Input_Form.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-22T20:20:47.244Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Display_Input_Form.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\lhann\\Desktop\\Projects\\Projects\\C#\\StockPredictor\\StockPredictor\\StockPredictor\\Display_Input_Form.cs",
-              "RelativeDocumentMoniker": "StockPredictor\\Display_Input_Form.cs",
-              "ToolTip": "C:\\Users\\lhann\\Desktop\\Projects\\Projects\\C#\\StockPredictor\\StockPredictor\\StockPredictor\\Display_Input_Form.cs [Design]",
-              "RelativeToolTip": "StockPredictor\\Display_Input_Form.cs [Design]",
+              "DocumentIndex": 1,
+              "Title": "CandleStick.cs",
+              "DocumentMoniker": "C:\\Users\\lhann\\Desktop\\Projects\\Projects\\C#\\StockPredictor\\StockPredictor\\StockPredictor\\CandleStick.cs",
+              "RelativeDocumentMoniker": "StockPredictor\\CandleStick.cs",
+              "ToolTip": "C:\\Users\\lhann\\Desktop\\Projects\\Projects\\C#\\StockPredictor\\StockPredictor\\StockPredictor\\CandleStick.cs",
+              "RelativeToolTip": "StockPredictor\\CandleStick.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T20:19:07.655Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-10-23T14:35:37.428Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Input_Form.cs",
               "DocumentMoniker": "C:\\Users\\lhann\\Desktop\\Projects\\Projects\\C#\\StockPredictor\\StockPredictor\\StockPredictor\\Input_Form.cs",
               "RelativeDocumentMoniker": "StockPredictor\\Input_Form.cs",
               "ToolTip": "C:\\Users\\lhann\\Desktop\\Projects\\Projects\\C#\\StockPredictor\\StockPredictor\\StockPredictor\\Input_Form.cs",
               "RelativeToolTip": "StockPredictor\\Input_Form.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAUwB0AAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-22T20:06:10.115Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Input_Form.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\lhann\\Desktop\\Projects\\Projects\\C#\\StockPredictor\\StockPredictor\\StockPredictor\\Input_Form.Designer.cs",
-              "RelativeDocumentMoniker": "StockPredictor\\Input_Form.Designer.cs",
-              "ToolTip": "C:\\Users\\lhann\\Desktop\\Projects\\Projects\\C#\\StockPredictor\\StockPredictor\\StockPredictor\\Input_Form.Designer.cs",
-              "RelativeToolTip": "StockPredictor\\Input_Form.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T20:06:00.631Z",
               "EditorCaption": ""
             },
             {
@@ -97,6 +89,31 @@
               "RelativeToolTip": "StockPredictor\\Input_Form.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-22T20:01:31.66Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Input_Form.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\lhann\\Desktop\\Projects\\Projects\\C#\\StockPredictor\\StockPredictor\\StockPredictor\\Input_Form.Designer.cs",
+              "RelativeDocumentMoniker": "StockPredictor\\Input_Form.Designer.cs",
+              "ToolTip": "C:\\Users\\lhann\\Desktop\\Projects\\Projects\\C#\\StockPredictor\\StockPredictor\\StockPredictor\\Input_Form.Designer.cs",
+              "RelativeToolTip": "StockPredictor\\Input_Form.Designer.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T13:59:33.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Display_Input_Form.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lhann\\Desktop\\Projects\\Projects\\C#\\StockPredictor\\StockPredictor\\StockPredictor\\Display_Input_Form.cs",
+              "RelativeDocumentMoniker": "StockPredictor\\Display_Input_Form.cs",
+              "ToolTip": "C:\\Users\\lhann\\Desktop\\Projects\\Projects\\C#\\StockPredictor\\StockPredictor\\StockPredictor\\Display_Input_Form.cs [Design]",
+              "RelativeToolTip": "StockPredictor\\Display_Input_Form.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T20:19:07.655Z",
               "EditorCaption": " [Design]"
             }
           ]

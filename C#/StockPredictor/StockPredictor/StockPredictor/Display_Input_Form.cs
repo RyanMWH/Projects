@@ -12,9 +12,11 @@ namespace StockPredictor
 {
     public partial class Display_Input_Form : Form
     {
-        public Display_Input_Form()
+        public Display_Input_Form(List<Candlestick> candlesticks)
         {
             InitializeComponent();
+            LoadCandleStickData(candlesticks);
         }
+        private void LoadCandleStickData(List<Candlestick> candlesticks)
     }
 }

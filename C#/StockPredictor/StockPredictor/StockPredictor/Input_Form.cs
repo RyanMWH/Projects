@@ -12,12 +12,17 @@ namespace StockPredictor
 {
     public partial class Input_Form : Form
     {
-        private OpenFileDialog openFileDialog_load;
         public Input_Form()
         {
             InitializeComponent();
             openFileDialog_load = new OpenFileDialog();
             openFileDialog_load.FileOk += OpenFileDialog_load_FileOk;
+
+            openFileDialog_load.Filter = "Text Files (*.txt)|*.txt|CSV Files (*.csv)|*.csv|All Files (*.*)|*.*";
+            openFileDialog_load.Title = "File Selection";
+            openFileDialog_load.InitialDirectory = "C:\\";
+            openFileDialog_load.RestoreDirectory = true;
+            openFileDialog_load.ShowHelp = true;
         }
 
         private void OpenFileDialog_load_FileOk(object sender, CancelEventArgs e)
@@ -25,8 +30,10 @@ namespace StockPredictor
             Text = openFileDialog_load.FileName;
 
             Display_Input_Form display_Input_Form = new Display_Input_Form();
-            display_Input_Form.ShowDialog();
+            //Properties
             display_Input_Form.Text = Text;
+            display_Input_Form.ShowDialog();
+            
         }
 
         private void Input_Form_Load(object sender, EventArgs e)
