@@ -9,7 +9,7 @@ namespace StockPredictor
     public class Candlestick
     {
         // Properties of the Candlestick
-        public DateTime DateTime { get; set; }  
+        public DateTime Date { get; set; }  
         public decimal Open { get; set; }       
         public decimal Close { get; set; }    
         public decimal High { get; set; }       
@@ -17,9 +17,9 @@ namespace StockPredictor
         public long Volume { get; set; }        
 
         //Constructor
-        public Candlestick(DateTime dateTime, decimal open, decimal close, decimal high, decimal low, long volume)
+        public Candlestick(DateTime date, decimal open, decimal close, decimal high, decimal low, long volume)
         {
-            DateTime = dateTime;
+            Date = date;
             Open = open;
             Close = close;
             High = high;
@@ -48,7 +48,7 @@ namespace StockPredictor
         // Override ToString method for easy debugging
         public override string ToString()
         {
-            return $"{DateTime}: Open={Open}, Close={Close}, High={High}, Low={Low}, Volume={Volume}, Bullish={IsBullish()}";
+            return $"{Date}: Open={Open}, Close={Close}, High={High}, Low={Low}, Volume={Volume}, Bullish={IsBullish()}";
         }
     }
 }

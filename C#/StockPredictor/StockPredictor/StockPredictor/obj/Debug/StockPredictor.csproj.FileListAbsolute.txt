@@ -8,3 +8,4 @@ C:\Users\lhann\Desktop\Projects\Projects\C#\StockPredictor\StockPredictor\StockP
 C:\Users\lhann\Desktop\Projects\Projects\C#\StockPredictor\StockPredictor\StockPredictor\bin\Debug\StockPredictor.pdb
 C:\Users\lhann\Desktop\Projects\Projects\C#\StockPredictor\StockPredictor\StockPredictor\obj\Debug\StockPredictor.exe
 C:\Users\lhann\Desktop\Projects\Projects\C#\StockPredictor\StockPredictor\StockPredictor\obj\Debug\StockPredictor.pdb
+C:\Users\lhann\Desktop\Projects\Projects\C#\StockPredictor\StockPredictor\StockPredictor\obj\Debug\StockPredictor.Display_Input_Form.resources

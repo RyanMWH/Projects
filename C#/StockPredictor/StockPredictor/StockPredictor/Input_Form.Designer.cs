@@ -28,40 +28,40 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.load_button = new System.Windows.Forms.Button();
-            this.endTimePicker = new System.Windows.Forms.DateTimePicker();
-            this.startTimePicker = new System.Windows.Forms.DateTimePicker();
+            this.Button_loadstock = new System.Windows.Forms.Button();
+            this.DateTimePicker_end = new System.Windows.Forms.DateTimePicker();
+            this.DateTimePicker_start = new System.Windows.Forms.DateTimePicker();
             this.startLabel = new System.Windows.Forms.Label();
             this.endLabel = new System.Windows.Forms.Label();
             this.openFileDialog_load = new System.Windows.Forms.OpenFileDialog();
             this.SuspendLayout();
             // 
-            // load_button
+            // Button_loadstock
             // 
-            this.load_button.Location = new System.Drawing.Point(328, 12);
-            this.load_button.Name = "load_button";
-            this.load_button.Size = new System.Drawing.Size(176, 40);
-            this.load_button.TabIndex = 0;
-            this.load_button.Text = "Load Stock(s)";
-            this.load_button.UseVisualStyleBackColor = true;
-            this.load_button.Click += new System.EventHandler(this.load_button_Click);
+            this.Button_loadstock.Location = new System.Drawing.Point(328, 12);
+            this.Button_loadstock.Name = "Button_loadstock";
+            this.Button_loadstock.Size = new System.Drawing.Size(176, 40);
+            this.Button_loadstock.TabIndex = 0;
+            this.Button_loadstock.Text = "Load Stock(s)";
+            this.Button_loadstock.UseVisualStyleBackColor = true;
+            this.Button_loadstock.Click += new System.EventHandler(this.load_button_Click);
             // 
-            // endTimePicker
+            // DateTimePicker_end
             // 
-            this.endTimePicker.Location = new System.Drawing.Point(412, 58);
-            this.endTimePicker.Name = "endTimePicker";
-            this.endTimePicker.Size = new System.Drawing.Size(392, 31);
-            this.endTimePicker.TabIndex = 1;
-            this.endTimePicker.ValueChanged += new System.EventHandler(this.endTimePicker_ValueChanged);
+            this.DateTimePicker_end.Location = new System.Drawing.Point(412, 58);
+            this.DateTimePicker_end.Name = "DateTimePicker_end";
+            this.DateTimePicker_end.Size = new System.Drawing.Size(392, 31);
+            this.DateTimePicker_end.TabIndex = 1;
+            this.DateTimePicker_end.ValueChanged += new System.EventHandler(this.endTimePicker_ValueChanged);
             // 
-            // startTimePicker
+            // DateTimePicker_start
             // 
-            this.startTimePicker.Location = new System.Drawing.Point(12, 58);
-            this.startTimePicker.Name = "startTimePicker";
-            this.startTimePicker.Size = new System.Drawing.Size(394, 31);
-            this.startTimePicker.TabIndex = 2;
-            this.startTimePicker.Value = new System.DateTime(2024, 1, 1, 0, 0, 0, 0);
-            this.startTimePicker.ValueChanged += new System.EventHandler(this.starttimepicker_ValueChanged);
+            this.DateTimePicker_start.Location = new System.Drawing.Point(12, 58);
+            this.DateTimePicker_start.Name = "DateTimePicker_start";
+            this.DateTimePicker_start.Size = new System.Drawing.Size(394, 31);
+            this.DateTimePicker_start.TabIndex = 2;
+            this.DateTimePicker_start.Value = new System.DateTime(2024, 1, 1, 0, 0, 0, 0);
+            this.DateTimePicker_start.ValueChanged += new System.EventHandler(this.starttimepicker_ValueChanged);
             // 
             // startLabel
             // 
@@ -97,9 +97,9 @@
             this.ClientSize = new System.Drawing.Size(815, 450);
             this.Controls.Add(this.endLabel);
             this.Controls.Add(this.startLabel);
-            this.Controls.Add(this.startTimePicker);
-            this.Controls.Add(this.endTimePicker);
-            this.Controls.Add(this.load_button);
+            this.Controls.Add(this.DateTimePicker_start);
+            this.Controls.Add(this.DateTimePicker_end);
+            this.Controls.Add(this.Button_loadstock);
             this.Name = "Input_Form";
             this.Text = "Load Stock";
             this.Load += new System.EventHandler(this.Input_Form_Load);
@@ -110,9 +110,9 @@
 
         #endregion
 
-        private System.Windows.Forms.Button load_button;
-        private System.Windows.Forms.DateTimePicker endTimePicker;
-        private System.Windows.Forms.DateTimePicker startTimePicker;
+        private System.Windows.Forms.Button Button_loadstock;
+        private System.Windows.Forms.DateTimePicker DateTimePicker_end;
+        private System.Windows.Forms.DateTimePicker DateTimePicker_start;
         private System.Windows.Forms.Label startLabel;
         private System.Windows.Forms.Label endLabel;
         private System.Windows.Forms.OpenFileDialog openFileDialog_load;

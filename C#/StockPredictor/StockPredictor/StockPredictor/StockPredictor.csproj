@@ -35,6 +35,7 @@
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -47,6 +48,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="CandleStick.cs" />
+    <Compile Include="CandlestickLoader.cs" />
     <Compile Include="Display_Input_Form.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -61,6 +63,9 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Display_Input_Form.resx">
+      <DependentUpon>Display_Input_Form.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Input_Form.resx">
       <DependentUpon>Input_Form.cs</DependentUpon>
     </EmbeddedResource>
